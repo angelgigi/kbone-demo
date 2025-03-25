@@ -1,5 +1,8 @@
 # 渲染效果图
-![image](https://github.com/user-attachments/assets/635f84dd-ecae-4f75-b6c4-234070cab663)
+<img width="300" height=“700” alt="image" src="https://github.com/user-attachments/assets/339f9133-4757-4917-ab34-fb7ee3dcc144" />
+
+<img width="300" height=“700” alt="image" src="https://github.com/user-attachments/assets/d986b3c9-73ce-4a8d-b5aa-800229b11f6d" />
+
 
 # vue-kbone
 
