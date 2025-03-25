@@ -1,3 +1,6 @@
+# 渲染效果图
+![image](https://github.com/user-attachments/assets/635f84dd-ecae-4f75-b6c4-234070cab663)
+
 # vue-kbone
 
 使用 vue 多端开发(小程序和Web)，基于 [kbone](https://github.com/wechat-miniprogram/kbone) 的 element 和 render。
