@@ -3,6 +3,9 @@
 
 <img width="300" height=“700” alt="image" src="https://github.com/user-attachments/assets/d986b3c9-73ce-4a8d-b5aa-800229b11f6d" />
 
+<img width="300" height=“700” alt="image" src="https://github.com/user-attachments/assets/3f906c61-969c-4245-9c83-906355111e94" />
+
+
 
 # vue-kbone
 
